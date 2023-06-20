@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/midigesibhavanigithub/ToDo-app">
-    <img src="[images/logo.png](https://github.com/Shivenpratapsingh/ToDo-app/blob/main/images/wp4172200.jpg)" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Shivenpratapsingh/ToDo-app/blob/main/images/wp4172200.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ToDo-app</h3>
